@@ -1,4 +1,4 @@
-package Sesion11;
+package Sesion8.ArrayList.Ejercicio;
 
 public class CLibro {
     private String titulo;
