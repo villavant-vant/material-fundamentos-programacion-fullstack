@@ -1,4 +1,3 @@
-package Sesion11.Herencia;
 
 public class Principal {
     public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package S4;
 
 public class RepetitivasBreak {
     public static void main(String[] args) {

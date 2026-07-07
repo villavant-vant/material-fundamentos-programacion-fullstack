@@ -1,4 +1,3 @@
-package S2;
 
 public class SumatoriaInicio {
     public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package S5S6;
 
 import java.util.Scanner;
 

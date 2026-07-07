@@ -1,4 +1,3 @@
-package S3;
 
 import java.util.Scanner;
 

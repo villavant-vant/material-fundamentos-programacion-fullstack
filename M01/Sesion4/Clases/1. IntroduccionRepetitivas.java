@@ -1,4 +1,3 @@
-package S4;
 
 public class IntroduccionRepetitivas {
     public static void main(String[] args){

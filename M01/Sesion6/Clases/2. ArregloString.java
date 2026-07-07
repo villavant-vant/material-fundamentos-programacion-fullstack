@@ -1,4 +1,3 @@
-package S5S6;
 
 public class ArregloString {
     public static void main(String[] args) {

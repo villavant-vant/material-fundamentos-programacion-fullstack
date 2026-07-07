@@ -1,4 +1,3 @@
-package Clases;
 public class CTriangulo {
     // Atributos
     public double lado1;

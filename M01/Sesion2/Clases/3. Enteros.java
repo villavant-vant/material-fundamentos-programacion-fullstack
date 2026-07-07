@@ -1,4 +1,3 @@
-package S2;
 
 public class Enteros {
     public static void main(String[] args) {

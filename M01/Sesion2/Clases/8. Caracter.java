@@ -1,4 +1,3 @@
-package S2;
 public class Caracter {
     public static void main(String[] args) {
         char letra = '/';

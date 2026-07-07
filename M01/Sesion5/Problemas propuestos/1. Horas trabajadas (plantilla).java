@@ -1,4 +1,3 @@
-package S5S6;
 
 
 public class EjercicioClase {

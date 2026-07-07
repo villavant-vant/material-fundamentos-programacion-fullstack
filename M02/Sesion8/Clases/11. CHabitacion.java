@@ -1,4 +1,3 @@
-package Sesion8.Composicion;
 
 // Clase Habitacion
 public class CHabitacion {

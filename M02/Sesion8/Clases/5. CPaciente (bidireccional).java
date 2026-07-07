@@ -1,4 +1,3 @@
-package Sesion8.Asociacion;
 
 public class CPaciente {
     private String nombre;

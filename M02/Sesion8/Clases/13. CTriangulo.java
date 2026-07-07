@@ -1,4 +1,3 @@
-package Sesion8.ArrayList;
 
 public class CTriangulo {
     // Atributos

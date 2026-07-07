@@ -1,4 +1,3 @@
-package Sesion11;
 
 public class CLibro {
     private String titulo;

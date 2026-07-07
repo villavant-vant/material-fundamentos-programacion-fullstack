@@ -1,4 +1,3 @@
-package Sesion8.Composicion;
 
 public class Principal {
     public static void main(String[] args) {

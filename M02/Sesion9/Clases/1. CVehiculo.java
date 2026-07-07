@@ -1,4 +1,3 @@
-package Sesion11.Herencia;
 
 // La clase Padre
 public class CVehiculo {

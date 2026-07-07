@@ -1,4 +1,3 @@
-package Sesion8.Agregacion;
 
 public class CLibro {
     private String titulo;

@@ -1,4 +1,3 @@
-package Sesion10.ArrayListPOO;
 
 import java.util.ArrayList;
 

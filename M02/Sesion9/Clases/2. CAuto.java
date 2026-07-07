@@ -1,4 +1,3 @@
-package Sesion11.Herencia;
 
 public class CAuto extends CVehiculo { // CAuto es hijo de CVehiculo - Herencia
     private int numeroPuertas;

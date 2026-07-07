@@ -1,4 +1,3 @@
-package Sesion8;
 
 public class CPaciente {
     // Atributos

@@ -1,4 +1,3 @@
-package Sesion7;
 
 public class CTriangulo {
     // Atributos
