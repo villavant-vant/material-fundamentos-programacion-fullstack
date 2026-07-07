@@ -1,6 +1,6 @@
 
 // Clase Habitacion
-public class CHabitacion {
+class CHabitacion {
     private String tipo;
     private double area;
     private int ventanas;

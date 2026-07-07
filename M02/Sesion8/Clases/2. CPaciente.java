@@ -1,5 +1,5 @@
 
-public class CPaciente {
+class CPaciente {
     // Atributos
     private String nombre;
     private int edad;

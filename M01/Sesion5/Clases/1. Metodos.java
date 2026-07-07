@@ -1,5 +1,5 @@
 
-public class Metodos {
+class Metodos {
 
     public static int sumar(int a, int b) {
         return a + b;

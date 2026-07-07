@@ -1,5 +1,5 @@
 
-public class Principal {
+class Principal {
     public static void main(String[] args) {
         CTriangulo a = new CTriangulo(6,7,6);
         CTriangulo b = new CTriangulo(10);

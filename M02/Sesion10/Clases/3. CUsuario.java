@@ -1,5 +1,5 @@
 
-public class CUsuario {
+class CUsuario {
     //Atributos
     private String nombre;
     private int edad;

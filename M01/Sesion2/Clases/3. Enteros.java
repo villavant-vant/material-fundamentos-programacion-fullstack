@@ -1,5 +1,5 @@
 
-public class Enteros {
+class Enteros {
     public static void main(String[] args) {
         byte edad = 25;
         short anio = 2024;

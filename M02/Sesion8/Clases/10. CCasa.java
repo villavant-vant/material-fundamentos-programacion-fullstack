@@ -1,7 +1,7 @@
 
 import java.util.ArrayList;
 
-public class CCasa {
+class CCasa {
     private String direccion;
     private ArrayList<CHabitacion> habitaciones;
 

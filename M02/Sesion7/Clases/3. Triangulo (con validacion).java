@@ -1,5 +1,5 @@
 
-public class Triangulo {
+class Triangulo {
     // Atributos
     private double lado1;
     private double lado2;

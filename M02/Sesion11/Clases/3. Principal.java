@@ -1,5 +1,5 @@
 
-public class Principal {
+class Principal {
     public static void main(String[] args){
         CBiblioteca b1 = new CBiblioteca();
         System.out.println("Nombre de biblioteca: "+ b1.getNombre());

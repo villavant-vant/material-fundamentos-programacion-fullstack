@@ -1,5 +1,5 @@
 
-public class CMedico {
+class CMedico {
     private String nombre;
     private String especialidad;
     private String cedula;

@@ -1,5 +1,5 @@
 
-public class principal {
+class principal {
     public static void main(String[] args) {
         CMedico medico1 = new CMedico("Armas","Cardiologia","C10");
         CMedico medico2 = new CMedico("Andrade","Neurologia","C15");

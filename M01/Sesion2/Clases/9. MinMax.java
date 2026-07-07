@@ -1,5 +1,5 @@
 
-public class MinMax {
+class MinMax {
     public static void main(String[] args) {
         System.out.println("Límites de tipos de datos en Java:\n");
 

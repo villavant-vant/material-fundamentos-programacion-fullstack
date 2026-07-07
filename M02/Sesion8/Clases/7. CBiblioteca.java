@@ -1,7 +1,7 @@
 
 import java.util.ArrayList;
 
-public class CBiblioteca {
+class CBiblioteca {
     private String nombre;
     private ArrayList<CLibro> libros; // Relación de agregación
 

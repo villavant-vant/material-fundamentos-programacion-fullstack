@@ -1,5 +1,5 @@
 
-public class CTriangulo {
+class CTriangulo {
     // Atributos
     private int lado1;
     private int lado2;

@@ -1,5 +1,5 @@
 
-public class CAuto extends CVehiculo { // CAuto es hijo de CVehiculo - Herencia
+class CAuto extends CVehiculo { // CAuto es hijo de CVehiculo - Herencia
     private int numeroPuertas;
 
     public CAuto(String marca, String modelo, String color,  int numeroPuertas) {

@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Formulario {
+class Formulario {
     public static void main(String[] args) {
         float precio;
         System.out.println("Ingresa el precio del formulario");

@@ -1,5 +1,5 @@
 
-public class Decimales {
+class Decimales {
     public static void main(String[] args) {
         float precio = 19.99f;
         double pi = 3.14159;

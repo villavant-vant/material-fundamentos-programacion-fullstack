@@ -1,4 +1,4 @@
-public class CTriangulo {
+class CTriangulo {
     // Atributos
     public double lado1;
     private double lado2;

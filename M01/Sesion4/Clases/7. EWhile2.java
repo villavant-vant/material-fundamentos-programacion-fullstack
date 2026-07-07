@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class EWhile2 {
+class EWhile2 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

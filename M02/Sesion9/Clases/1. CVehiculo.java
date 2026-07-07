@@ -1,6 +1,6 @@
 
 // La clase Padre
-public class CVehiculo {
+class CVehiculo {
     protected String marca;
     protected String modelo;
     protected String color;

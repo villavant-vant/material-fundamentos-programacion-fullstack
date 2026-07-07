@@ -1,5 +1,5 @@
 
-public class Arreglos {
+class Arreglos {
     public static void main(String[] args) {
         int[] arregloEnteros = {10, 7, 17, 9};
         System.out.println("Tamanio: " + arregloEnteros.length); // 4

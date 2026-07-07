@@ -5,7 +5,7 @@ import java.util.ArrayList;
 // La clase CBiblioteca tiene relacion con la clase CLibro
 // Porque la clase CBiblioteca tiene un ArrayList de CLibro
 
-public class CBiblioteca {
+class CBiblioteca {
     private String nombre;
     private ArrayList<CLibro> librosLista = new ArrayList<CLibro>(); // Aqui esta la agregacion
     // librosLista es el nombre del atributo, y este atributo es de tipo ArrayList<CLibro>

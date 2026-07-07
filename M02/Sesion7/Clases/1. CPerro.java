@@ -1,5 +1,5 @@
 
-public class CPerro {
+class CPerro {
 
     // Atributos
     String nombre;

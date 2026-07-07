@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class CondicinalAnidada2 {
+class CondicinalAnidada2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int nota = sc.nextInt();  // 50

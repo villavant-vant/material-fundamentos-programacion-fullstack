@@ -1,4 +1,4 @@
-public class Caracter {
+class Caracter {
     public static void main(String[] args) {
         char letra = '/';
         char opcion;

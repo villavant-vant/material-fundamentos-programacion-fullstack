@@ -1,5 +1,5 @@
 
-public class Precedente {
+class Precedente {
     public static void main(String[] args) {
         int resultado = 10 + 5*2 -8/4; // 18
         System.out.println("Precio: " + resultado);

@@ -1,5 +1,5 @@
 
-public class Principal {
+class Principal {
     public static void main(String[] args) {
         CCasa miCasa = new CCasa("Av. Principal 123");
         miCasa.mostrarPlanos();

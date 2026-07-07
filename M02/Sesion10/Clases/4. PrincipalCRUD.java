@@ -1,7 +1,7 @@
 
 import java.util.ArrayList;
 
-public class PrincipalCRUD {
+class PrincipalCRUD {
     public static void main(String[] args) {
         CUsuario usuario1 = new CUsuario("Jorge", 30, 'M'); // Estoy creando un objeto de tipo CUsuario que se llama como variable usuario1
         CUsuario usuario2 = new CUsuario("Wildor");

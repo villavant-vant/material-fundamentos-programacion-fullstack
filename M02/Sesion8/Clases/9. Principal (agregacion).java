@@ -1,5 +1,5 @@
 
-public class Principal {
+class Principal {
     public static void main(String[] args) {
 
         System.out.println("=== SISTEMA DE GESTIÓN DE BIBLIOTECA ===");

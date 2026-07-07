@@ -1,7 +1,7 @@
 
 import java.util.ArrayList;
 
-public class ArrayListClase {
+class ArrayListClase {
     public static void main(String[] args) {
         CTriangulo tr1 = new CTriangulo(6,8,9);
         CTriangulo tr2 = new CTriangulo(7,7,7);

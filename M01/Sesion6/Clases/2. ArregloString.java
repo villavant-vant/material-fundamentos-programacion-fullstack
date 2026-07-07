@@ -1,5 +1,5 @@
 
-public class ArregloString {
+class ArregloString {
     public static void main(String[] args) {
         String[] arregloNro1 = {"Hola", "como", "estas","pepito","buenas","noches"};
         String[] arregloNro2 = {"Jorge", "Enrique"};

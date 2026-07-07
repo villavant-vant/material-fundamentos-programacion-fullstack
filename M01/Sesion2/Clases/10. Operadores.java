@@ -1,5 +1,5 @@
 
-public class Operadores {
+class Operadores {
     public static void main(String[] args) {
 
         // Sumatoria +

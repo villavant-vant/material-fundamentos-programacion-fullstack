@@ -1,5 +1,5 @@
 
-public class ScopeVariable {
+class ScopeVariable {
 
     public static void main(String[] args) {
         int edad = 10;

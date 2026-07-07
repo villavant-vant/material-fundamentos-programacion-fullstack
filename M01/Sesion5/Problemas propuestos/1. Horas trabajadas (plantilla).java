@@ -1,6 +1,6 @@
 
 
-public class EjercicioClase {
+class EjercicioClase {
 
     public static int calcularTotalHoras(int[] horas) {
         int total = 0;

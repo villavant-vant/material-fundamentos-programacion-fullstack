@@ -1,7 +1,7 @@
 
 import java.util.ArrayList;
 
-public class ListasCRUD {
+class ListasCRUD {
     public static void main(String[] args) {
         // Arraylist o Lista - tamanio dinamico
         ArrayList<Double> notas = new ArrayList<Double>();
