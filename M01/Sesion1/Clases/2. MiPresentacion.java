@@ -1,4 +1,3 @@
-package S1;
 
 public class MiPresentacion {
     public static void main(String[] args){
